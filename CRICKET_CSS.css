@@ -1,0 +1,10 @@
+.image {
+    width: 500px;
+}
+
+.cardrow {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+      }
+}
